@@ -1,0 +1,8 @@
+{
+    "first_part_terms": [
+        "microfluidic",
+        "flow chemistry"
+    ],
+    "accuracy_threshold": 0.28,
+    "max_workers": 10
+}

@@ -1,0 +1,14 @@
+PyQt5
+pandas
+requests
+bs4
+tqdm
+selenium
+webdriver_manager
+playwright
+google_patent_scraper
+deep_translator
+torch
+sentence_transformers
+seaborn
+lxml
